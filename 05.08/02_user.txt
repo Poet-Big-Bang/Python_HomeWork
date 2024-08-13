@@ -1,0 +1,4 @@
+Soubor pro udaje uzivatele
+
+Jmeno:Spartak
+Vek:28
